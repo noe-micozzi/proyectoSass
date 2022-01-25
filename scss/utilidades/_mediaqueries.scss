@@ -1,0 +1,23 @@
+@media (max-width:873px){
+    .logo{
+        width: 20%;
+    }
+    .formulario{
+        margin: 5px;
+    }
+
+    h1{      
+        text-align: center;    
+    }
+    .nav{
+        flex-direction: column;
+    }    
+ 
+    .title-container{
+        height: 0%;
+    }
+
+    .text1{
+        animation: none;
+    }
+}
